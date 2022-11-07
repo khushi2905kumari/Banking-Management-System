@@ -12,5 +12,8 @@
   
   ![screenshot](https://user-images.githubusercontent.com/112396675/200386968-41e13e7c-3bcf-4de7-888f-257ae6437c7f.jpeg)
 
+DATA STORED
+
+![data](https://user-images.githubusercontent.com/112396675/200387680-2009831e-fc60-462a-94b0-b1a10bf25c85.jpeg)
 
 Thank Yor :) 
