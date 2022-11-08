@@ -1,19 +1,22 @@
-          # Banking-Management-System
 
-  -> All The Functionalities of Banking System are Credited in This Project.
+ ![title](https://user-images.githubusercontent.com/112396675/200484557-167382b4-aa38-4d1d-aa12-ba1dd2eaae59.png)
+
+=> All The Functionalities of Banking System are Credited in This Project.
   
-  here You can
-  => Create A Bank Account
-  => Withdraw from Your Bank Account
-  => Credit into Your Account
-  => Delete Account
-  => View All Bank accounts Created
-  => Keep record of all customer's data into a seprate data file.
-  
-  ![screenshot](https://user-images.githubusercontent.com/112396675/200386968-41e13e7c-3bcf-4de7-888f-257ae6437c7f.jpeg)
+- Open an Account
+- Balance Enquiry
+- Deposit
+- Withdrawal
+- Close an Account
+- Show All Accounts
+- Quit
 
-DATA STORED
+* Keeps record of all customer's data into a seprate data file.
+ 
+           #Opening an Account
+![OpeningAccount](https://user-images.githubusercontent.com/112396675/200481817-ac4525fb-66a4-4a29-b190-b36e30f72485.png)
 
-![data](https://user-images.githubusercontent.com/112396675/200387680-2009831e-fc60-462a-94b0-b1a10bf25c85.jpeg)
+           #Storing Details into a Separate File
+![DATABASE](https://user-images.githubusercontent.com/112396675/200481894-308383e5-5bdf-43b0-8b6f-a9751c4dc867.png)
 
-Thank Yor :) 
+Thank You :) 
