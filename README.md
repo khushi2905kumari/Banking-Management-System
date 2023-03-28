@@ -7,6 +7,9 @@ This is a C++ based web application designed for banking purposes. The applicati
 # Getting Started
 To run the application, you will need to have a C++ compiler installed on your system. 
 - Clone the repository to your local machine and compile the source code using the command:
+ 
+       git clone https://github.com/khushi2905kumari/Banking-Management-System.git
+                    
 - Open terminall & copy paste this command ⬇️
 
        g++ -o main main.cpp account.cpp transaction.cpp
