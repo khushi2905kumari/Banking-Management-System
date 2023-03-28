@@ -8,10 +8,12 @@ This is a C++ based web application designed for banking purposes. The applicati
 To run the application, you will need to have a C++ compiler installed on your system. 
 - Clone the repository to your local machine and compile the source code using the command:
 - Open terminall & copy paste this command ⬇️
-   g++ -o main main.cpp account.cpp transaction.cpp
+
+  g++ -o main main.cpp account.cpp transaction.cpp
    
 - Once compiled, run the application using the command:
-   ./main
+
+  ./main
    
 # Usage
 Upon starting the application, the user is presented with a menu of available options:
